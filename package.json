@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "gittest",
+=======
+  "name": "gittest2",
+>>>>>>> cb766b920b2077186cbed95219e07bb2e566106c
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
